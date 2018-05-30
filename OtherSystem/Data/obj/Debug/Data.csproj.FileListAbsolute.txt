@@ -1,0 +1,11 @@
+E:\LS\Practice\OtherSystem\Data\bin\Debug\Data.dll
+E:\LS\Practice\OtherSystem\Data\bin\Debug\Data.pdb
+E:\LS\Practice\OtherSystem\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+E:\LS\Practice\OtherSystem\Data\obj\Debug\Data.dll
+E:\LS\Practice\OtherSystem\Data\obj\Debug\Data.pdb
+E:\LS\Practice\OtherSystem\Data\bin\Debug\EntityFramework.dll
+E:\LS\Practice\OtherSystem\Data\bin\Debug\Unity.Abstractions.dll
+E:\LS\Practice\OtherSystem\Data\bin\Debug\EntityFramework.xml
+E:\LS\Practice\OtherSystem\Data\bin\Debug\Unity.Abstractions.pdb
+E:\LS\Practice\OtherSystem\Data\obj\Debug\Data.csproj.CopyComplete
+E:\LS\Practice\OtherSystem\Data\obj\Debug\Data.csprojAssemblyReference.cache
