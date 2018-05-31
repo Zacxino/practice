@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Web.Models;
 
 namespace Web.Controllers
 {
@@ -10,8 +11,23 @@ namespace Web.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            var list = new List<Student>();
+            var student = new Student
+            {
+                StudentId = 1,
+                StudentName = "jack",
+                Age = 12
+            };
+
+            list.Add(student);
+            return View(student);
         }
+
+        public void List<T>(T t)
+        {
+
+        }
+
 
         public ActionResult About()
         {
